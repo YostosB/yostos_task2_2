@@ -25,7 +25,7 @@ use the package manager [php](https://www.php.com) to install foobar
 gfdgdf
 
 
-    ![](https://github.com/YostosB/yostos_task2_2/blob/main/img/Octicons-mark-github.svg)
+![](https://github.com/YostosB/yostos_task2_2/blob/main/img/Octicons-mark-github.svg)
 
 
 
